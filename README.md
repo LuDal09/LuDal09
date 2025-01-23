@@ -1,7 +1,7 @@
 <div align="center">
   <h1 align="center">Hola, soy <a href="https://aristi.dev">Luis David Bassa</a> 👋</h1>
 </div>
-<img src="https://imgur.com/a/luis-s-1McLu3i.png">
+<img src="https://i.imgur.com/4D3QVCm.png">
 ## Sobre mí ##
 
 - 🎓 Estudiante de Estadística en la [Universidad de Córdoba](https://www.unicordoba.edu.co/) con 8 semestres cursados.
