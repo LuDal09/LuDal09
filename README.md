@@ -1,16 +1,24 @@
-## Hi there 👋
+<div align="center">
+  <h1 align="center">Hola, soy <a href="https://aristi.dev">TuNombre</a> 👋</h1>
+</div>
+<img src="https://i.imgur.com/weNbhGZ.png">
 
-<!--
-**LuDal09/LuDal09** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Sobre mí
 
-Here are some ideas to get you started:
+- 🎓 Estudiante de Estadística en la [Universidad de Córdoba](https://www.unicordoba.edu.co/) con 8 semestres cursados.
+- 💻 Me apasiona la programación, la ciencia de datos y el análisis.
+- 🎓 Cuento con un [Certificado Profesional en IBM Data Science](https://www.ibm.com/certify).
+- 📚 Mi objetivo es profundizar en el análisis de datos y machine learning.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<br>
+
+## Proyectos
+
+### ⚙️ &nbsp;GitHub Analytics
+
+<p align="center">
+  <a href="https://github.com/TuUsername">
+    <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=TuUsername&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
+    <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=TuUsername&layout=compact&langs_count=8&theme=algolia"/>
+  </a>
+</p>
