@@ -2,7 +2,7 @@
   <h1 align="center">Hola, soy <a href="https://aristi.dev">Luis David Bassa</a> 👋</h1>
 </div>
 <img src="https://imgur.com/a/luis-s-1McLu3i.png">
-## Sobre mí
+## Sobre mí ##
 
 - 🎓 Estudiante de Estadística en la [Universidad de Córdoba](https://www.unicordoba.edu.co/) con 8 semestres cursados.
 - 💻 Me apasiona la programación, la ciencia de datos y el análisis.
