@@ -4,7 +4,7 @@
 <img src="https://i.imgur.com/4D3QVCm.png">
 ** Sobre mí
 
-- 🎓 Estudiante de Estadística en la [Universidad de Córdoba](https://www.unicordoba.edu.co/) con 8 semestres cursados.
+- 🎓 Estudiante de Estadística en la [Universidad de Córdoba](https://www.unicordoba.edu.co/) con 9 semestres cursados.
 - 💻 Me apasiona la programación, la ciencia de datos y el análisis.
 - 🎓 Cuento con un [Certificado Profesional en IBM Data Science](https://www.coursera.org/account/accomplishments/professional-cert/LV9YEXP7VLME).
 - 📚 Mi objetivo es profundizar en el análisis de datos y machine learning.
